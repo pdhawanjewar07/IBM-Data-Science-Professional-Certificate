@@ -2,8 +2,7 @@
 
 <img src="https://i.imgur.com/YCFnjvg.png" alt="Smiley face" height="150" width="300">
 
-![IBM](http://i.imgur.com/Qktqnu1.png) INSTRUCTORS
-#### Instructors: Joseph Santarcangelo
+### Instructors: Joseph Santarcangelo
 This repository contains all the resources and solution asked in IBM Data Science Professional Certification.
 Currently I'm also working on this certification. I keep on updating the resources and solution as I proceed further in this certification.
 
