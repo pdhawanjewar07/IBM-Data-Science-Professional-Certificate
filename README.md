@@ -1,6 +1,6 @@
 # IBM: Data Science Professional Certification
 
-<img src="https://i.imgur.com/YCFnjvg.png" alt="Smiley face" height="300" width="600">
+<img src="https://i.imgur.com/YCFnjvg.png" alt="Smiley face" height="150" width="300">
 
 ![IBM](http://i.imgur.com/Qktqnu1.png) INSTRUCTORS
 #### Instructors: Joseph Santarcangelo
